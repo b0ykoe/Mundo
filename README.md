@@ -8,6 +8,8 @@ software requirements
 
 * java 8
 
+![preview](https://i.imgur.com/4pNO8uA.png)
+
 ### Discord
 
 Join the Riotphobia [discord](https://discord.gg/JRDwxFxW7m)
